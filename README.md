@@ -1,7 +1,7 @@
 # Devil Fruitle
 
 Guess the names of the devil fruits from the One Piece (anime) world .
-[**Try it here!**](https://reactle.vercel.app/)
+[**Try it here!**](https://devil-fruitle.vercel.app/)
 
 ## Forked from [Reactle](https://github.com/cwackerfuss/react-wordle)
 
