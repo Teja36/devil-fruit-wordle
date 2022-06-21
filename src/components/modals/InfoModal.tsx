@@ -26,7 +26,7 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
         <Cell value="U" />
       </div>
       <p className="text-sm text-gray-500 dark:text-gray-300">
-        The letter M is in the word and in the correct spot.
+        The letter G is in the word and in the correct spot.
       </p>
 
       <div className="flex justify-center mb-1 mt-4">
